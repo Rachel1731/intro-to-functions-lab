@@ -30,13 +30,18 @@ const maxOfTwoNumbers = (x, y) => {
   Complete the exercise in the space below:
   */
   
-  isAdult(21)
-      return Adult
+  function isAdult(25){
+        return 'Adult'
+
+  }
+
+
+    function isAdult(16){
+        return 'Minor'
+
+    }
   
-      isAdult(16)
-      return Minor
-  
-  console.log('Exercise 2 Result:', isAdult(21));
+    console.log('Exercise 2 Result:', isAdult(21));
   
   
   /*
